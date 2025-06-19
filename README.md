@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Fracctal_Quest_Banner_1.png
-coverY: 171.0637509266123
+cover: .gitbook/assets/FM-3D-PLAYFUL-CLOSEUP2.jpg
+coverY: -96.78280207561158
 layout:
   cover:
     visible: true
@@ -33,7 +33,6 @@ The game supports both Web2 (traditional) and Web3 (blockchain-enhanced) experie
   * iOS
 * Blockchains
   * Algorand
-  * Immutable
 
 ### Jump right in
 

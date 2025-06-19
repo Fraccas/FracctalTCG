@@ -1,5 +1,5 @@
 ---
-description: Powered by Algorand and Immutable blockchains
+description: Powered by the Algorand blockchain
 ---
 
 # ⛓️ Blockchain Integration
