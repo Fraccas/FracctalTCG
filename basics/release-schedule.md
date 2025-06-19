@@ -13,6 +13,7 @@ description: Upcoming release dates for Fracctal TCG
 **Platforms in Testing:**
 
 * PC
+* Mac
 * Android
 * iOS
 
