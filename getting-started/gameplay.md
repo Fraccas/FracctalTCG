@@ -10,7 +10,7 @@ description: >-
 
 Fracctal TCG is a cross-platform trading card game (TCG) designed to be fair, engaging, and optionally powered by blockchain. Players can earn and spend in-game currencies, participate in balanced ranked PvP, and convert digital assets to NFTs. The game supports both Web2 (traditional) and Web3 (blockchain-enhanced) experiences without sacrificing fairness or accessibility.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Plant monster cards owned by the player</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Plant monster cards owned by the player</p></figcaption></figure>
 
 **Card Types**
 
@@ -21,7 +21,7 @@ Fracctal TCG is a cross-platform trading card game (TCG) designed to be fair, en
 * **Trap:** Hidden effects that trigger on specific opponent actions.
 * **Fairy Power:** Unique archetype characters that define a player's strategy.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Locations grant benefits based on monster elemental types</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Locations grant benefits based on monster elemental types</p></figcaption></figure>
 
 **Elemental Teams (Factions)**
 

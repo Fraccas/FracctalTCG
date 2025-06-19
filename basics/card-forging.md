@@ -35,6 +35,25 @@ description: Level up cards to forge NFTs
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>NFTs become more expensive to forge over time</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>NFT Supply Caps</p></figcaption></figure>
+
+***
+
+#### 📦 TCG NFT Mint Caps
+
+| **Rarity** | **Card Count** | <p><strong>1st Edition Cap</strong></p><p><em>(per card)</em></p> | <p><strong>Non-1st Cap</strong></p><p><em>(per card)</em></p> | <p><strong>Total Max Supply</strong></p><p><em>(per card)</em></p> |
+| ---------: | -------------: | ----------------------------------------------------------------: | ------------------------------------------------------------: | -----------------------------------------------------------------: |
+|     Common |            160 |                                                                75 |                                                         1,500 |                                                          **1,575** |
+|   Uncommon |             92 |                                                                54 |                                                           750 |                                                            **804** |
+|       Rare |             78 |                                                                26 |                                                           400 |                                                            **426** |
+|     Mythic |             43 |                                                                23 |                                                           200 |                                                            **223** |
+
+***
+
+
+
 {% hint style="info" %}
 Learn more about [Deck Building](deck-building.md)
 {% endhint %}

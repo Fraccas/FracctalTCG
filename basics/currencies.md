@@ -32,6 +32,31 @@ description: Learn about our two game currencies
 
 **Conversion Path:** FRACC → CORE (rate-limited, audited) ❌ No reverse conversion allowed.
 
+## Pricing
+
+* **Pack Prices**
+  * Common Packs → **200 TCG**
+  * Element-Themed Packs → **200 TCG**
+  * Rare Packs → **500 TCG**
+  * Epic Packs → **1000 TCG**
+* **Set Selling Price for Duplicate Cards**
+  * Sellback at 1**0%** of card worth
+* **Configure Earned Currency Rewards**
+  * PvP Win → **250–300 TCG**
+  * PvP Loss → **100 TCG**
+  * Daily Missions → **\~275 TCG total**
+* **NFT Holder Passive Income**
+  * **+1 TCG per NFT per day**
+* **In-App Purchase (IAP) Bundle Pricing**
+  * $0.99 → **200–250 TCG**
+  * $4.99 → **1200 TCG**
+  * $9.99 → **2600 TCG**
+  * $49.99 → **15,000+ TCG** + bonus incentive
+* **Monthly Subscription (\~$9.99)**
+  * Benefits: +1 free daily pack, mission boosts, cosmetics
+
+
+
 {% hint style="info" %}
 Learn how you can earn CORE currency from Fracctal TCG [Missions](missions.md)
 {% endhint %}

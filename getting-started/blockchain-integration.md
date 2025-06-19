@@ -19,7 +19,7 @@ description: Powered by the Algorand blockchain
 * When a TCG player links an Algorand wallet, the system auto-creates a Fracctal Monsters (FM) web profile.
 * Users can then log into the FM website by connecting their Pera Wallet.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>A QR code is dynamically generated to send user to Pera Wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>A QR code is dynamically generated to send user to Pera Wallet</p></figcaption></figure>
 
 ### 🎨 NFT Integration
 
@@ -32,4 +32,4 @@ description: Powered by the Algorand blockchain
 * Forged NFTs have a golden frame and show in both the card view and board view.
 * Forged cards appear in the FM site inventory and can be traded on the FM marketplace.\\
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Once a card hits level 25 it can be forged into an NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Once a card hits level 25 it can be forged into an NFT</p></figcaption></figure>
