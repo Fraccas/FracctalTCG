@@ -1,5 +1,5 @@
 ---
-description: Earn CORE and account XP by completed challenges
+description: Earn ESSENCE and account XP by completed challenges
 ---
 
 # 🎫 Missions
@@ -7,7 +7,7 @@ description: Earn CORE and account XP by completed challenges
 #### 🌟 Daily & Weekly Quests
 
 * Each player is assigned 3 daily and 3 weekly tasks
-* Missions are generated as needed, and grant various CORE and XP rewards
+* Missions are generated as needed, and grant various ESSENCE and XP rewards
 * Each completed mission awards 1 Guild Point to the FM guild system
 * Encourages using various types of cards in combat
 

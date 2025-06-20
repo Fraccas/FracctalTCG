@@ -13,7 +13,7 @@ description: Customize your in-game avatar to use in solo and multiplayer
 * **Quantity:**\
   1000+ different Web2 tamer asset variations.
 * **How to obtain:**\
-  Spend [**CORE** ](currencies.md)(the in-game soft currency) to unlock them.
+  Spend [ESSENCE ](currencies.md)(the in-game soft currency) to unlock them.
 * **Features:**
   * Non-NFT (Web2 only)
   * Cannot be traded, sold, or minted

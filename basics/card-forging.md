@@ -6,10 +6,10 @@ description: Level up cards to forge NFTs
 
 #### 🏋️ Progression & Game Loop
 
-* Players complete missions → Earn CORE → Buy Packs → Build Decks
+* Players complete missions → Earn ESSENCE → Buy Packs → Build Decks
 * Cards gain XP by participating in combat
 * Cards level up to 25 through usage in PvP
-* Once a card reaches level 25, it can be forged into an NFT using CORE
+* Once a card reaches level 25, it can be forged into an NFT using ESSENCE
 * Forging resets the card’s level and grants it a golden frame, viewable in inventory and during combat
 * Players must have a wallet linked to forge an NFT. Attempting to forge without one will route the player to wallet linking flow
 

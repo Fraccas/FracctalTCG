@@ -8,7 +8,7 @@ description: Fracctal TCG Playable Game Modes
 
 ### Tutorial
 
-Teaches players the mechanics of the game while granting CORE and XP rewards
+Teaches players the mechanics of the game while granting ESSENCE and XP rewards
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Allows you to test your decks against AI. You can choose the deck that you'd lik
 
 ### Multiplayer
 
-Battle against other players in an online PvP mode which allows you to earn CORE, XP, and complete [missions](missions.md). \
+Battle against other players in an online PvP mode which allows you to earn ESSENCE, XP, and complete [missions](missions.md). \
 
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

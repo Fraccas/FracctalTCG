@@ -6,7 +6,7 @@ description: Open various packs with CORE to unlock new cards
 
 #### 📦 Packs
 
-* Packs can only be opened using [CORE](currencies.md).
+* Packs can only be opened using [ESSENCE](currencies.md).
 * Each pack contains **5 cards**.
 * Packs may be **themed by element** (e.g., Fire, Water, Shadow) or **untyped by rarity** (e.g., Common Pack, Rare Pack, Epic Pack).
 * Untyped rarity packs offer broader variety with weighted rarity drops.
