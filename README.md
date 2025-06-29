@@ -1,3 +1,6 @@
+
+![Fracctal_TCG_Logo_2](https://github.com/user-attachments/assets/d3057324-a3f4-47c2-9b33-50f38e435836)
+
 ---
 cover: .gitbook/assets/FM-3D-PLAYFUL-CLOSEUP2.jpg
 coverY: -96.78280207561158
