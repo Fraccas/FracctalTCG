@@ -18,3 +18,7 @@
 * [🙋‍♂️ Tamer Avatars](basics/tamer-avatars.md)
 * [🥇 Leaderboard](basics/leaderboard.md)
 * [⌛ Release Schedule](basics/release-schedule.md)
+
+***
+
+* [📸 Press Kit](press-kit.md)
