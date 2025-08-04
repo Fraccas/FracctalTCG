@@ -86,7 +86,7 @@
             "type": "Character",
             "rarity": "mythic",
             "mana": 6,
-            "attack": 3,
+            "attack": 4,
             "hp": 6,
             "traits": [],
             "abilities": [
@@ -146,16 +146,16 @@
             "type": "Character",
             "rarity": "rare",
             "mana": 5,
-            "attack": 0,
-            "hp": 5,
+            "attack": 2,
+            "hp": 6,
             "traits": [],
             "abilities": [
                 {
                     "title": "Tentacles",
-                    "desc": "Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn."
+                    "desc": "Before attacking, roll a D6, on 4+ gain +3 attack until the end of the turn."
                 }
             ],
-            "text": "When attacking, roll a D6. On 4+ gain +6 attack.",
+            "text": "When attacking, roll a D6. On 4+ gain +3 attack.",
             "desc": "",
             "cost": 1000,
             "deckbuilding": true,
@@ -516,7 +516,7 @@
             "type": "Character",
             "rarity": "rare",
             "mana": 5,
-            "attack": 3,
+            "attack": 2,
             "hp": 7,
             "traits": [],
             "abilities": [
@@ -705,20 +705,20 @@
             "title": "Burnibu",
             "team": "fire",
             "type": "Character",
-            "rarity": "common",
-            "mana": 3,
+            "rarity": "rare",
+            "mana": 5,
             "attack": 2,
             "hp": 2,
             "traits": [],
             "abilities": [
                 {
                     "title": "Pillage",
-                    "desc": "After attacking the opponent's life, gain 3 mana."
+                    "desc": "After attacking the opponent's life, gain 2 mana."
                 }
             ],
-            "text": "After attacking the opponent's life, gain 3 mana.\n",
+            "text": "After attacking the opponent's life, gain 2 mana.\n",
             "desc": "",
-            "cost": 250,
+            "cost": 1000,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -757,8 +757,8 @@
             "title": "Burny",
             "team": "fire",
             "type": "Character",
-            "rarity": "common",
-            "mana": 2,
+            "rarity": "uncommon",
+            "mana": 4,
             "attack": 1,
             "hp": 1,
             "traits": [
@@ -772,7 +772,7 @@
             ],
             "text": "After attacking the opponent's life, gain 2 mana.",
             "desc": "",
-            "cost": 250,
+            "cost": 500,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -1239,8 +1239,8 @@
             "title": "Phyrox",
             "team": "fire",
             "type": "Character",
-            "rarity": "uncommon",
-            "mana": 4,
+            "rarity": "rare",
+            "mana": 5,
             "attack": 4,
             "hp": 5,
             "traits": [],
@@ -1252,7 +1252,7 @@
             ],
             "text": "<b>Cast (2):</b> Roll a D6, on 4+ return target to hand.",
             "desc": "",
-            "cost": 500,
+            "cost": 1000,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -1265,7 +1265,7 @@
             "team": "fire",
             "type": "Spell",
             "rarity": "common",
-            "mana": 3,
+            "mana": 4,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -2140,8 +2140,8 @@
             "team": "plant",
             "type": "Character",
             "rarity": "uncommon",
-            "mana": 4,
-            "attack": 2,
+            "mana": 5,
+            "attack": 3,
             "hp": 4,
             "traits": [
                 "evolution"
@@ -2149,10 +2149,10 @@
             "abilities": [
                 {
                     "title": "Tentacles",
-                    "desc": "Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn."
+                    "desc": "Before attacking, roll a D6, on 4+ gain +3 attack until the end of the turn."
                 }
             ],
-            "text": "<b>Attack:</b>Roll a D6, on 4+ gain +6 attack until the end of the turn.",
+            "text": "<b>Attack:</b>Roll a D6, on 4+ gain +3 attack until the end of the turn.",
             "desc": "",
             "cost": 500,
             "deckbuilding": true,
@@ -3844,7 +3844,7 @@
             "team": "ice",
             "type": "Spell",
             "rarity": "mythic",
-            "mana": 3,
+            "mana": 2,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -3920,7 +3920,7 @@
             "type": "Character",
             "rarity": "common",
             "mana": 2,
-            "attack": 3,
+            "attack": 2,
             "hp": 1,
             "traits": [
                 "evolution"
@@ -3971,7 +3971,7 @@
             "team": "ice",
             "type": "Secret",
             "rarity": "uncommon",
-            "mana": 4,
+            "mana": 3,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -4031,8 +4031,8 @@
             "team": "psychic",
             "type": "Character",
             "rarity": "uncommon",
-            "mana": 3,
-            "attack": 3,
+            "mana": 4,
+            "attack": 2,
             "hp": 3,
             "traits": [
                 "evolution"
@@ -4059,8 +4059,8 @@
             "type": "Character",
             "rarity": "uncommon",
             "mana": 3,
-            "attack": 3,
-            "hp": 3,
+            "attack": 2,
+            "hp": 2,
             "traits": [
                 "cat",
                 "evolution"
@@ -4166,8 +4166,8 @@
             "type": "Character",
             "rarity": "common",
             "mana": 2,
-            "attack": 2,
-            "hp": 2,
+            "attack": 1,
+            "hp": 1,
             "traits": [
                 "evolution"
             ],
@@ -4482,7 +4482,7 @@
             "team": "psychic",
             "type": "Spell",
             "rarity": "rare",
-            "mana": 7,
+            "mana": 5,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -4631,9 +4631,9 @@
             "title": "Antairy",
             "team": "rock",
             "type": "Character",
-            "rarity": "common",
+            "rarity": "uncommon",
             "mana": 4,
-            "attack": 4,
+            "attack": 3,
             "hp": 3,
             "traits": [],
             "abilities": [
@@ -4644,7 +4644,7 @@
             ],
             "text": "Fury",
             "desc": "",
-            "cost": 250,
+            "cost": 500,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -5280,7 +5280,7 @@
             "rarity": "rare",
             "mana": 5,
             "attack": 4,
-            "hp": 6,
+            "hp": 5,
             "traits": [],
             "abilities": [
                 {
@@ -6735,7 +6735,7 @@
             "team": "neutral",
             "type": "Spell",
             "rarity": "mythic",
-            "mana": 2,
+            "mana": 0,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -6930,7 +6930,7 @@
             "team": "water",
             "type": "Equipment",
             "rarity": "uncommon",
-            "mana": 1,
+            "mana": 2,
             "attack": 0,
             "hp": 3,
             "traits": [],
@@ -7060,10 +7060,10 @@
             "title": "Mirion",
             "team": "water",
             "type": "Character",
-            "rarity": "common",
-            "mana": 3,
-            "attack": 3,
-            "hp": 3,
+            "rarity": "rare",
+            "mana": 4,
+            "attack": 1,
+            "hp": 1,
             "traits": [],
             "abilities": [
                 {
@@ -7073,7 +7073,7 @@
             ],
             "text": "Gain 3 mana upon attacking the enemy player",
             "desc": "",
-            "cost": 250,
+            "cost": 1000,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -7112,8 +7112,8 @@
             "type": "Character",
             "rarity": "rare",
             "mana": 5,
-            "attack": 4,
-            "hp": 3,
+            "attack": 3,
+            "hp": 2,
             "traits": [],
             "abilities": [
                 {
@@ -7324,8 +7324,8 @@
             "title": "Submerge",
             "team": "water",
             "type": "Spell",
-            "rarity": "rare",
-            "mana": 2,
+            "rarity": "uncommon",
+            "mana": 1,
             "attack": 0,
             "hp": 0,
             "traits": [],
@@ -7337,7 +7337,7 @@
             ],
             "text": "Target card gains \"When attacked, opponent must discard 1 random card\".",
             "desc": "",
-            "cost": 1000,
+            "cost": 500,
             "deckbuilding": true,
             "packs": [
                 "standard",
@@ -7553,9 +7553,9 @@
             "title": "Woshi",
             "team": "water",
             "type": "Character",
-            "rarity": "common",
+            "rarity": "uncommon",
             "mana": 3,
-            "attack": 2,
+            "attack": 1,
             "hp": 1,
             "traits": [
                 "evolution"
@@ -7568,7 +7568,7 @@
             ],
             "text": "When attacking a player, gain 2 mana.",
             "desc": "",
-            "cost": 250,
+            "cost": 500,
             "deckbuilding": true,
             "packs": [
                 "standard",
