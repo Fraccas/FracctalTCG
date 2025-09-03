@@ -18,6 +18,7 @@
 * [Tamer Avatars](basics/tamer-avatars.md)
 * [Leaderboard](basics/leaderboard.md)
 * [Release Schedule](basics/release-schedule.md)
+* [Partners](basics/partners.md)
 
 ***
 
