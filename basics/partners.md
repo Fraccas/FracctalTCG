@@ -1,7 +1,7 @@
 ---
 description: >-
   Partner projects of Fracctal TCG. Holding assets from these projects grant
-  small currency rewards daily for active player. Assets can also be used as
+  small currency rewards daily for active players. Assets can also be used as
   avatars in-game.
 ---
 
