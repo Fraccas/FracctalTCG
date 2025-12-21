@@ -111,8 +111,30 @@ When multiple abilities trigger at the same time:
 
 1. **Active player's abilities resolve first**
 2. **Abilities on the same side resolve in board order** (left to right)
-3. **Chain abilities** from a single effect resolve in the order listed
-4. **Secrets/Traps** resolve before regular abilities of the same timing
+3. **Within a single card**, abilities are sorted by their `resolve_order` value (lower first, default is 1)
+4. **Chain abilities** from a single effect resolve in the order listed
+5. **Secrets/Traps** resolve before regular abilities of the same timing
+
+### Ability Resolve Order (AbilityData.resolve_order)
+
+Each ability has a `resolve_order` field that determines its priority when a card has multiple abilities of the same trigger type. This is set in the Unity Inspector on AbilityData assets.
+
+| Resolve Order | Priority |
+|---------------|----------|
+| 0 or lower | Resolves first |
+| 1 (default) | Normal priority |
+| 2+ | Resolves later |
+
+**Example:** A creature with two OnPlay abilities:
+- Ability A: `resolve_order = 0` (Draw a card)
+- Ability B: `resolve_order = 1` (Deal 2 damage)
+
+Result: The draw happens first, then the damage.
+
+**Use cases:**
+- Ensure buff abilities apply before damage calculations
+- Make "on death" triggers happen in a specific order
+- Control timing of complex multi-ability cards
 
 ---
 
